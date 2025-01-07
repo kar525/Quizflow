@@ -5,4 +5,5 @@ QuizFlow โปรเจคการพัฒนาแอปพลิเคช�
 
 
 
-[![Thumbnail](https://img.youtube.com/vi/XY6Qg5sjLHY/maxresdefault.jpg)](https://youtu.be/XY6Qg5sjLHY)
+[Watch on YouTube](https://youtu.be/XY6Qg5sjLHY)
+
